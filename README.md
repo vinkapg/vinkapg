@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinka Peña González</h1>
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
-- 🔭 I’m currently working on [Burger_Queen](https://github.com/vinkapg/DEV003-burger-queen)
+- 🔭 I’m currently working on [Burger Queen](https://github.com/vinkapg/DEV003-burger-queen)
 
 - 🌱 I’m currently learning **React**
 
