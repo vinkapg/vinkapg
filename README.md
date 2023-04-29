@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [my repositories](https://github.com/vinkapg?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repositorie](https://github.com/vinkapg?tab=repositories)
 
 - 📫 How to reach me **vinkapgonzalez@gmail.com**
 
