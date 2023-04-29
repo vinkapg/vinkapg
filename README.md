@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vinka Peña González</h1>
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
-- 🔭 I’m currently working on [MD Links](https://github.com/vinkapg/DEV003-md-links)
+- 🔭 I’m currently working on [Burger_Queen](https://github.com/vinkapg/DEV003-burger-queen)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vinkapg?tab=repositories](https://github.com/vinkapg?tab=repositories)
 
